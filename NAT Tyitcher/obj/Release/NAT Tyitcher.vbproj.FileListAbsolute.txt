@@ -1,0 +1,13 @@
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\bin\Release\NAT Tyitcher.exe.config
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\bin\Release\NAT Tyitcher.exe
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\bin\Release\NAT Tyitcher.pdb
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\bin\Release\NAT Tyitcher.xml
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Release\NAT Tyitcher.vbproj.AssemblyReference.cache
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Release\NAT_Tyitcher.frmMain.resources
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Release\NAT_Tyitcher.frmAbout.resources
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Release\NAT_Tyitcher.Resources.resources
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Release\NAT Tyitcher.vbproj.GenerateResource.cache
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Release\NAT Tyitcher.vbproj.CoreCompileInputs.cache
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Release\NAT Tyitcher.exe
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Release\NAT Tyitcher.xml
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Release\NAT Tyitcher.pdb

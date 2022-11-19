@@ -1,0 +1,12 @@
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Debug\NAT_Tyitcher.frmMain.resources
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Debug\NAT_Tyitcher.Resources.resources
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Debug\NAT Tyitcher.vbproj.GenerateResource.cache
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Debug\NAT Tyitcher.vbproj.CoreCompileInputs.cache
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\bin\Debug\NAT Tyitcher.exe.config
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\bin\Debug\NAT Tyitcher.exe
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\bin\Debug\NAT Tyitcher.pdb
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\bin\Debug\NAT Tyitcher.xml
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Debug\NAT Tyitcher.exe
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Debug\NAT Tyitcher.xml
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Debug\NAT Tyitcher.pdb
+C:\Users\Bored\Source\Repos\NAT Tyitcher\NAT Tyitcher\obj\Debug\NAT_Tyitcher.frmAbout.resources
